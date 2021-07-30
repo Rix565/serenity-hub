@@ -1,0 +1,21 @@
+.primary-title{
+	text-align: center;
+	color: #2ac6c6;
+}
+.secondary-title{
+	text-align: center;
+	color: #406df2;
+}
+.background{
+	background-image: url("background.jpg");
+}
+.text{
+	text-align: center;
+	color: #e0ad1f;
+}
+.link:hover{
+	color: #eac562;
+}
+.link{
+	color: #b48a18;
+}
